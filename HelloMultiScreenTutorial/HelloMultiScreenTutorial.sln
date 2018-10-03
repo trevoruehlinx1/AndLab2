@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloMultiScreenTutorial", "HelloMultiScreenTutorial\HelloMultiScreenTutorial.csproj", "{3A5A3833-47CC-4225-BF53-698732370764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A5A3833-47CC-4225-BF53-698732370764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5A3833-47CC-4225-BF53-698732370764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5A3833-47CC-4225-BF53-698732370764}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3A5A3833-47CC-4225-BF53-698732370764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5A3833-47CC-4225-BF53-698732370764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A5A3833-47CC-4225-BF53-698732370764}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D32F8B6D-B24F-4ED6-9BC1-45C506FD8AFE}
+	EndGlobalSection
+EndGlobal
