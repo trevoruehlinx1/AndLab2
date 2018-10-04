@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:orientation="vertical"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/linearLayout1">
+    <Button
+        p1:text="Take One Down"
+        p1:textAlignment="center"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/takeOneDownButton" />
+    <Button
+        p1:text="Take Two Down"
+        p1:textAlignment="center"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/takeTwoDownButton" />
+    <TextView
+        p1:text="99 Bugs in your code, you haven't taken any down yet!"
+        p1:textAlignment="center"
+        p1:layout_width="match_parent"
+        p1:layout_height="41.5dp"
+        p1:id="@+id/firstActivityOutputLabel" />
+</LinearLayout>
